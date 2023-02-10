@@ -1,1 +1,1 @@
-# flaskCalculator
+Simple Calculator
